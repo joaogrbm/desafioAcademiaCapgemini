@@ -2,10 +2,11 @@
 
 ## Requisitos do Ambiente
 - Java 8 ou Superior
-- Eclipse IDE
+- IDE de sua escolha
 
 ## Instalação 
 - Navegue até o diretório desejado e clone o repositório
+- Abra o projeto com a IDE
 
 ```
 git clone https://github.com/joaogrbm/desafioAcademiaCapgemini.git
