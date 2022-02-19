@@ -6,11 +6,11 @@
 
 ## Instalação 
 - Navegue até o diretório desejado e clone o repositório
-- Abra o projeto com a IDE
 
 ```
 git clone https://github.com/joaogrbm/desafioAcademiaCapgemini.git
 ```
+- Abra o projeto com a IDE
 
 ## Descricação do Projeto
 - Os problemas propostos foram resolvidos usando linguagem JAVA, e os testes automatizados utilizam JUnit 4.
