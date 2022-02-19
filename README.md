@@ -12,8 +12,8 @@ git clone https://github.com/joaogrbm/desafioAcademiaCapgemini.git
 ```
 - Abra o projeto com a IDE
 
-## Descricação do Projeto
-- Os problemas propostos foram resolvidos usando linguagem JAVA, e os testes automatizados utilizam JUnit 4.
+## Descrição do Projeto
+- Os problemas propostos foram resolvidos em linguagem JAVA, e os testes automatizados utilizam JUnit 4.
 - O programa principal contém um menu de opções para selecionar a questão desejada.
 - Siga as instruções da saída do console.
 
